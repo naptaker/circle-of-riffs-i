@@ -8,7 +8,7 @@ The Rustler?
 Ginja Ninja (working title)
 
 ** G
-:construction: WIP
+src_html[:exports code]{:construction:} WIP
 
 ** D
-:hurtrealbad: Rough idea
+src_html[:exports code]{:hurtrealbad:} Rough idea
