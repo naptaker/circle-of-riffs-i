@@ -1,6 +1,6 @@
 \chordmode {
   \repeat volta 3 {
-    \include "guitar-verse_a.ily"
+    \include "notes/ginja_ninja/guitar/verse/a.ily"
   }
   \alternative {
     { \set Timing.measurePosition = #(ly:make-moment 0)

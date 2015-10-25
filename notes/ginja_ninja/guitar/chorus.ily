@@ -1,11 +1,11 @@
 \chordmode {
   \repeat volta 4 {
-    \include "guitar-chorus_a.ily"
+    \include "notes/ginja_ninja/guitar/chorus/a.ily"
   }
   \alternative {
-    { \include "guitar-chorus_b.ily" }
-    { \include "guitar-chorus_c.ily" }
-    { \include "guitar-chorus_b.ily" }
-    { \include "guitar-chorus_d.ily" }
+    { \include "notes/ginja_ninja/guitar/chorus/b.ily" }
+    { \include "notes/ginja_ninja/guitar/chorus/c.ily" }
+    { \include "notes/ginja_ninja/guitar/chorus/b.ily" }
+    { \include "notes/ginja_ninja/guitar/chorus/d.ily" }
   }
 }
