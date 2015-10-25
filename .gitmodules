@@ -4,3 +4,7 @@
 [submodule "lib/lalily"]
 	path = lib/lalily
 	url = git@github.com:yurrriq/lalily.git
+[submodule "output"]
+	path = output
+	url = git@github.com:naptaker/circle-of-riffs-i.git
+	branch = output
