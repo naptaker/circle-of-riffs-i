@@ -21,13 +21,7 @@
 
   s1*5 s8 \break
   s1.*5 \break
-  % s1*4 \break
-  % s1*4 \break
-  % s1*4 \pageBreak
-
-  % s1*4 \break
-  % s1*4 \break
-  % s4
+  s1.*3
 }
 
 \lalilyTest

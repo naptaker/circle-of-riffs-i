@@ -1,4 +1,4 @@
-lalily V 0.9.1 @ 25.10.2015 02:58:10
+lalily V 0.9.1 @ 25.10.2015 03:14:58
 Includes: ---
 'lib/lalily/lalily/paper.lalily-default.ly'
 'lib/lalily/lalily/layout.lalily-default.ly'
@@ -29,7 +29,7 @@ Registry: ---
 [registry] lalily/person/poet/pre: Words by
 [registry] lalily/runtime/loaded: (lib/lalily/lalily/paper.lalily-default.ly lib/lalily/lalily/layout.lalily-d ...
 [registry] lalily/runtime/logfile-written: guitar.log
-[registry] lalily/runtime/parser: #<Lily_parser #<Lily_lexer (#<module 111e0a980>) > >
+[registry] lalily/runtime/parser: #<Lily_parser #<Lily_lexer (#<module 10a302980>) > >
 [registry] lalily/runtime/parser/defs: ((setTransposedTemplate . #<Music function #<procedure #f (parser location t ...
 [registry] lalily/runtime/path: lib/lalily/lalily/lalily/
 [registry] lalily/runtime/store/path/variables/$EMPTY: ()
@@ -103,7 +103,7 @@ Template reference: ---
 
 Musik: ---
 [music] naptaker/circle-of-riffs-i/ginja_ninja/guitar: 143/4
-[music] naptaker/circle-of-riffs-i/ginja_ninja/meta: 125/4
+[music] naptaker/circle-of-riffs-i/ginja_ninja/meta: 143/4
 
 Musik Default: ---
 [defaults] naptaker/circle-of-riffs-i/ginja_ninja: [lalily/group]

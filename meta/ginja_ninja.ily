@@ -12,4 +12,9 @@
 \setArranger #'naptaker
 
 \putMusic meta {
+  s1*4 \break
+  s1*9 s2 s8 \break
+  s1*5 \break
+  s1*5 s8 \break
+  s1.*8
 }
